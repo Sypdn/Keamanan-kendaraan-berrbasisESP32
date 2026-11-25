@@ -183,6 +183,6 @@ Jika relay tidak merespons dashboard, periksa Serial Monitor, koneksi Wi-Fi, URL
 - Gunakan URL publik HTTPS yang dapat diakses ESP32 serta sertifikat yang valid atau layanan tunnel yang mendukung konfigurasi TLS.
 - Pastikan sambungan relay terhadap sistem kelistrikan kendaraan aman dan sesuai spesifikasi komponen.
 
-## Lisensi
+##  Hak Cipta & Lisensi
 
-Belum ada file lisensi pada proyek ini. Tambahkan lisensi sebelum penggunaan ulang atau distribusi publik.
+© 2026 Sypdn. Hak Cipta Dilindungi Undang-Undang.
